@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Kitab\Kitab\bin\Debug\Kitab.exe.config
+C:\Users\pc\source\repos\Kitab\Kitab\bin\Debug\Kitab.exe
+C:\Users\pc\source\repos\Kitab\Kitab\bin\Debug\Kitab.pdb
+C:\Users\pc\source\repos\Kitab\Kitab\obj\Debug\Kitab.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Kitab\Kitab\obj\Debug\Kitab.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Kitab\Kitab\obj\Debug\Kitab.exe
+C:\Users\pc\source\repos\Kitab\Kitab\obj\Debug\Kitab.pdb
